@@ -1,8 +1,8 @@
-# Thu Le's Portolio
+# Thu Le's Portfolio
 
 This is my home page! My name is Thu Le and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) majoring in Computer Science.
 
-My GitHub page is http://github.com/Thutwo.
+My GitHub page is [http://github.com/Thutwo.](https://Thutwo.github.io)
 
 ## Favorite CPSC 120L Labs
 
